@@ -1,0 +1,19 @@
+body{
+  background-color: aqua;
+  background-image: url(images/books-library.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#first-section{
+  height: 90vh;
+  border: 2px solid white;
+  border-radius: 10px;
+}
+#second-section{
+  height: 90vh;
+  border: 2px solid white;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  border-radius: 10px;
+
+}
